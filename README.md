@@ -1,4 +1,4 @@
-# Wallet.io — Expense Tracker (PERN)
+# Wallet.io - Expense Tracker (PERN)
 
 A full-stack expense tracker with JWT authentication, role-based access control
 (User / Admin), income & expense management, budgets, analytics, and PDF/Excel
