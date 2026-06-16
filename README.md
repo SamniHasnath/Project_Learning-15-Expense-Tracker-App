@@ -23,8 +23,6 @@ reports — built with PostgreSQL, Express, React (Vite) and Node.
 - All transactions across all users with filters (user, category, type, date range)
 - Analytics: income vs expense by month, category-wise expenses, user growth
   
-<img width="1000" height="508" alt="Gemini_Generated_Image_1h9gii1h9gii1h9g" src="https://github.com/user-attachments/assets/4d0e2ff7-8c6f-429b-b693-4d24783264ee" />
-
 
 ## Tech Stack
 
