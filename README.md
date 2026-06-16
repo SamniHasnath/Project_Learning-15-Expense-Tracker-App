@@ -23,6 +23,8 @@ reports — built with PostgreSQL, Express, React (Vite) and Node.
 - All transactions across all users with filters (user, category, type, date range)
 - Analytics: income vs expense by month, category-wise expenses, user growth
   
+ <img width="883" height="508" alt="image" src="https://github.com/user-attachments/assets/4acf383e-4e9b-4551-aa4e-76779cd29d14" />
+ 
 
 ## Tech Stack
 
