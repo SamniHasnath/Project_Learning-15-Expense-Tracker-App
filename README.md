@@ -1,7 +1,7 @@
 # Wallet.io - Expense Tracker (PERN)
 
 A full-stack expense tracker with JWT authentication, role-based access control (User / Admin), income & expense management, budgets, analytics, and PDF/Excel reports — built with PostgreSQL, Express, React (Vite), and Node.js.
-
+ <img width="883" height="508" alt="image" src="https://github.com/user-attachments/assets/4acf383e-4e9b-4551-aa4e-76779cd29d14" />
 ## Features
 
 ### Authentication
