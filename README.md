@@ -3,6 +3,8 @@
 A full-stack expense tracker with JWT authentication, role-based access control (User / Admin), income & expense management, budgets, analytics, and PDF/Excel reports — built with **P**ostgreSQL, **E**xpress, **R**eact (Vite), and **N**ode.js.
 
 <img width="883" height="508" alt="Wallet.io dashboard screenshot" src="https://github.com/user-attachments/assets/4acf383e-4e9b-4551-aa4e-76779cd29d14" />
+<img width="506" height="562" alt="image" src="https://github.com/user-attachments/assets/66aa1e53-0d05-4f13-b464-439b8a749755" />
+
 
 ## Features
 
