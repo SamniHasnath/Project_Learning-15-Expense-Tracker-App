@@ -6,6 +6,7 @@ A full-stack expense tracker with JWT authentication, role-based access control 
 <img width="1517" height="545" alt="image" src="https://github.com/user-attachments/assets/552e7db5-89e0-4676-9e7b-e168faae25b8" />
 <img width="1530" height="518" alt="image" src="https://github.com/user-attachments/assets/0c2b5cb5-52a3-400b-b1c7-e1e4c26a4af3" />
 <img width="1517" height="595" alt="image" src="https://github.com/user-attachments/assets/a7e26b30-d610-416b-b3c8-970c0f620f7c" />
+<img width="1516" height="610" alt="image" src="https://github.com/user-attachments/assets/9f3553ba-fc96-4a9e-a5b5-1f40da85ab51" />
 <img width="1532" height="578" alt="image" src="https://github.com/user-attachments/assets/b5b18bdd-9215-46e1-b29e-5bd9ed1c8e0e" />
 
 ## Features
