@@ -1,6 +1,6 @@
 # Wallet.io — Expense Tracker (PERN)
 
-A full-stack expense tracker with JWT authentication, role-based access control (User / Admin), income & expense management, budgets, analytics, and PDF/Excel reports — built with **P**ostgreSQL, **E**xpress, **R**eact (Vite), and **N**ode.js.
+A full-stack expense tracker with JWT authentication, role-based access control (User / Admin), income & expense management, budgets, analytics, and PDF/Excel reports - built with **P**ostgreSQL, **E**xpress, **R**eact (Vite), and **N**ode.js.
 
 <img width="883" height="508" alt="Wallet.io dashboard screenshot" src="https://github.com/user-attachments/assets/4acf383e-4e9b-4551-aa4e-76779cd29d14" />
 <img width="1517" height="545" alt="image" src="https://github.com/user-attachments/assets/552e7db5-89e0-4676-9e7b-e168faae25b8" />
@@ -71,7 +71,7 @@ expense-tracker/
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) 18+
-- A PostgreSQL database — either [local PostgreSQL](https://www.postgresql.org/download/) or a hosted instance (e.g. [Neon](https://neon.tech/))
+- A PostgreSQL database - either [local PostgreSQL](https://www.postgresql.org/download/) or a hosted instance (e.g. [Neon](https://neon.tech/))
 
 ### 1. Clone & install
 
